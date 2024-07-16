@@ -1,0 +1,271 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+
+}
+.navbar{
+    background-color: rgb(130, 192, 246);
+
+}
+
+.h3,h2{
+    color: rgb(130, 192, 246);
+}
+.btn{
+    color: rgb(130, 192, 246);
+    border:1px,solid;
+    border-color: rgb(5, 129, 246);
+    
+    
+
+
+    
+}
+.container-1{
+    background-image:url("../images/bg.jpg");
+    background-size: cover;
+    height: 90vh;
+    box-shadow: rgba(133, 143, 244, 0.12) 0px -23px 25px 0px inset, rgba(110, 180, 227, 0.5) 0px -36px 30px 0px inset, rgba(93, 154, 234, 0.7) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(103, 249, 241, 0.09) 0px 32px 16px;
+}
+.start{
+    margin-left: 100px;
+    padding-left: 100px;
+}
+.but{
+    display: flex;
+    display: inline;
+}
+.h3{
+    padding-top: 30px;
+}
+.container-2{
+    margin-top: 10px;
+    background-image:url("../images/bg.jpg");
+    background-size: cover;
+
+    box-shadow: rgba(133, 143, 244, 0.12) 0px -23px 25px 0px inset, rgba(110, 180, 227, 0.5) 0px -36px 30px 0px inset, rgba(93, 154, 234, 0.7) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(103, 249, 241, 0.09) 0px 32px 16px;
+
+}
+.container-3{
+    margin-top:10px;
+
+    background-image:url("../images/bg.jpg");
+    background-size: cover;
+    box-shadow: rgba(133, 143, 244, 0.12) 0px -23px 25px 0px inset, rgba(110, 180, 227, 0.5) 0px -36px 30px 0px inset, rgba(93, 154, 234, 0.7) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(103, 249, 241, 0.09) 0px 32px 16px;
+
+}
+
+
+
+.navbar{
+    position: fixed;
+}
+.image1{
+    border-radius: 5%;
+    box-shadow: rgba(9, 160, 247, 0.4) 5px 5px, rgba(59, 147, 249, 0.3) 10px 10px, rgba(72, 147, 245, 0.2) 15px 15px, rgba(102, 168, 235, 0.1) 20px 20px, rgba(138, 189, 234, 0.05) 25px 25px;
+}
+#pro1{
+    animation: load1 5s normal forwards;
+    background-color: rgb(130, 192, 246);
+}
+@keyframes load1{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 75;
+    }
+}
+
+#pro2{
+    animation: load2 5s normal forwards;
+    background-color: rgb(130, 192, 246);
+}
+@keyframes load2{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 70;
+    }
+}
+#pro3{
+    animation: load3 5s normal forwards;
+    background-color: rgb(130, 192, 246);
+}
+@keyframes load3{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 85;
+    }
+}
+#pro4{
+    animation: load4 5s normal forwards;
+    background-color: rgb(130, 192, 246);
+}
+@keyframes load4{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90;
+    }
+}
+#pro5{
+    animation: load2 5s normal forwards;
+     background-color: rgb(130, 192, 246);
+}
+@keyframes load5{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 70;
+    }
+}
+#pro6{
+    animation: load2 5s normal forwards;
+     background-color: rgb(130, 192, 246);
+}
+@keyframes load6{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 70;
+    }
+}
+#pro7{
+    animation: load2 5s normal forwards;
+     background-color: rgb(130, 192, 246);
+}
+@keyframes load7{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 70;
+    }
+}
+#pro8{
+    animation: load2 5s normal forwards;
+     background-color: rgb(130, 192, 246);
+}
+@keyframes load8{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 70;
+    }
+}
+#pro9{
+    animation: load2 5s normal forwards;
+     background-color: rgb(130, 192, 246);
+}
+@keyframes load8{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 60;
+    }
+}
+#a{
+    margin-left: 160px;
+    margin-right: 40px;
+}
+#b{
+    margin-left: 160px;
+    margin-right: 40px;
+}
+.card{
+    box-shadow: rgb(65, 137, 225) 3px 3px 6px 0px inset, rgba(76, 154, 210, 0.5) -3px -3px 6px 1px inset;
+    height: 40vh;
+
+}
+.card-text{
+        text-align: justify;
+      }
+
+.container-edu{
+    margin-top:10px;
+    background-image:url("../images/bg.jpg");
+    background-size: cover;
+    height: 90vh;
+    box-shadow: rgba(133, 143, 244, 0.12) 0px -23px 25px 0px inset, rgba(182, 195, 204, 0.5) 0px -36px 30px 0px inset, rgba(93, 154, 234, 0.7) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(103, 249, 241, 0.09) 0px 32px 16px;
+
+
+}
+
+.container-edu1{
+margin-top: 5px;
+width: 40rem;
+height: 5rem;
+ box-shadow: rgba(148, 186, 210, 0.12) 0px -23px 25px 0px inset, rgba(142, 192, 227, 0.5) 0px -36px 30px 0px inset, rgba(114, 147, 226, 0.7) 0px -79px 40px 0px inset, rgba(114, 170, 237, 0.06) 0px 2px 1px, rgba(140, 181, 239, 0.09) 0px 4px 2px, rgba(168, 182, 198, 0.09) 0px 8px 4px, rgba(143, 189, 235, 0.09) 0px 16px 8px, rgba(142, 177, 208, 0.09) 0px 32px 16px;
+}
+.container-edu2{
+    margin-top: 10rem;
+    width: 40rem;
+    height: 5rem;
+    box-shadow: rgba(148, 186, 210, 0.12) 0px -23px 25px 0px inset, rgba(142, 192, 227, 0.5) 0px -36px 30px 0px inset, rgba(114, 147, 226, 0.7) 0px -79px 40px 0px inset, rgba(114, 170, 237, 0.06) 0px 2px 1px, rgba(140, 181, 239, 0.09) 0px 4px 2px, rgba(168, 182, 198, 0.09) 0px 8px 4px, rgba(143, 189, 235, 0.09) 0px 16px 8px, rgba(142, 177, 208, 0.09) 0px 32px 16px;
+    }
+    .container-edu3{
+        margin-top: rem;
+        width: 40rem;
+        height: 5rem;
+        box-shadow: rgba(148, 186, 210, 0.12) 0px -23px 25px 0px inset, rgba(142, 192, 227, 0.5) 0px -36px 30px 0px inset, rgba(114, 147, 226, 0.7) 0px -79px 40px 0px inset, rgba(114, 170, 237, 0.06) 0px 2px 1px, rgba(140, 181, 239, 0.09) 0px 4px 2px, rgba(168, 182, 198, 0.09) 0px 8px 4px, rgba(143, 189, 235, 0.09) 0px 16px 8px, rgba(142, 177, 208, 0.09) 0px 32px 16px;
+   }
+    .container-edu4{
+            margin-top: 10rem;
+            width: 40rem;
+            height: 5rem;
+            box-shadow: rgba(148, 186, 210, 0.12) 0px -23px 25px 0px inset, rgba(142, 192, 227, 0.5) 0px -36px 30px 0px inset, rgba(114, 147, 226, 0.7) 0px -79px 40px 0px inset, rgba(114, 170, 237, 0.06) 0px 2px 1px, rgba(140, 181, 239, 0.09) 0px 4px 2px, rgba(168, 182, 198, 0.09) 0px 8px 4px, rgba(143, 189, 235, 0.09) 0px 16px 8px, rgba(142, 177, 208, 0.09) 0px 32px 16px;
+ }
+ .container-4{
+    margin-top: 10px;
+    background-image:url("../images/bg.jpg");
+    background-size: cover;
+    box-shadow: rgba(133, 143, 244, 0.12) 0px -23px 25px 0px inset, rgba(110, 180, 227, 0.5) 0px -36px 30px 0px inset, rgba(93, 154, 234, 0.7) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(103, 249, 241, 0.09) 0px 32px 16px;
+
+}
+.container-5{
+    margin-top: 10px;
+    background-image:url("../images/bg.jpg");
+    background-size: cover;
+    box-shadow: rgba(133, 143, 244, 0.12) 0px -23px 25px 0px inset, rgba(110, 180, 227, 0.5) 0px -36px 30px 0px inset, rgba(93, 154, 234, 0.7) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(103, 249, 241, 0.09) 0px 32px 16px;
+
+}
+ .card-exp{
+    height: 50vh;
+    width: 20rem;
+    box-shadow: rgba(9, 160, 247, 0.4) 5px 5px, rgba(59, 147, 249, 0.3) 10px 10px, rgba(72, 147, 245, 0.2) 15px 15px, rgba(102, 168, 235, 0.1) 20px 20px, rgba(205, 226, 244, 0.05) 25px 25px;
+
+     
+ }
+ .img1{
+    width:76rem;
+    height:29rem;
+    margin-left: 90px;
+
+ }
+ .input-group{
+    width: 30rem;
+ }
+ .container-6{
+    margin-top: 10px;
+    background-image:url("../images/bg.jpg");
+    background-size: cover;
+    box-shadow: rgba(133, 143, 244, 0.12) 0px -23px 25px 0px inset, rgba(110, 180, 227, 0.5) 0px -36px 30px 0px inset, rgba(93, 154, 234, 0.7) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(103, 249, 241, 0.09) 0px 32px 16px;
+
+}
+ 
+ 
+    
+ 
